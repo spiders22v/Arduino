@@ -2,7 +2,7 @@
 Arduino with IO Expansion Shield for Arduino V7.1
 
 ## Target board
-![Test Arduino board with sensors](https://photos.google.com/share/AF1QipOjUaxlZMnp_KJlGTPBhAx7zWxm0aXQUvmZ7xHNqTkEledzmbTbhsoVe2tapeBHfw?key=eHdMelVWMTJVdldZLXZabVIwNF9CUDAwNll3ajd3)
+![Test Arduino board with sensors](IO_exp.JPG)
 
 ## Motivation
 This code is to make a simple sensor device.
