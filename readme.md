@@ -1,31 +1,30 @@
 ## Synopsis
+Arduino with IO Expansion Shield for Arduino V7.1
 
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
 
-## Code Example
-
-Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
+## Target board
+![Alt text](/IO_exp.jpg)
 
 ## Motivation
 
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+This code is to make a simple sensor device.
 
 ## Installation
 
-Provide code examples and explanations of how to get the project.
+Just import and run.
 
 ## API Reference
 
-Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
+http://wiki.dfrobot.com.cn/index.php?title=%E9%A6%96%E9%A1%B5#IO.E6.89.A9.E5.B1.95.E6.9D.BF
 
 ## Tests
 
-Describe and show how to run the tests with code examples.
+Tested with Arduino IDE 1.8.3
 
 ## Contributors
 
-Let people know how they can dive into the project, include important links to things like issue trackers, irc, twitter accounts if applicable.
+Jinchul Choi (spiders22v@gmail.com)
 
 ## License
 
-A short snippet describing the license (MIT, Apache, etc.)
+Apache 2.0
